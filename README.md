@@ -14,5 +14,6 @@
 
 ### Автор
 * Михаил Абрамов
-* e-mail для контактов m-s-abra@yandex.ru
-* Страницы в соцсетях vk.com/id11928007
+* E-Mail: m-s-abra@yandex.ru
+* [Instagram](https://www.instagram.com/beavisabra/)
+* [Vk](vk.com/id11928007)

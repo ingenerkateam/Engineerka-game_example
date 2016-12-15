@@ -1,4 +1,4 @@
-### Проект "Инженерка". Игра "Догони динозавра"
+### Проект "Инженерка". Игра "Догони динозавра" [![Build status](https://ci.appveyor.com/api/projects/status/63rtamfsxpiux3v3)](https://ci.appveyor.com/project/NeverMine1732586/engineerka-game-example)
 
 ### Структура проекта
 * Основной файл с игрой dino.cpp

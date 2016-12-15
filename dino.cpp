@@ -1,5 +1,5 @@
-#include TXLib.h
-#include dinosaur.cpp
+#include "TXLib.h"
+#include "dinosaur.h"
 
 int main ()
 {
@@ -8,7 +8,7 @@ int main ()
     
     txCreateWindow(600, 400);
     while(!GetAsyncKeyState(VK_ESCAPE)) {
-        moveDino(x, y, *vx, *vy);
+        moveDino(x, y, &vx, &vy);
     }
     
     return 0;

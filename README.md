@@ -1,5 +1,8 @@
 ### Проект "Инженерка". Игра "Догони динозавра" [![Build status](https://ci.appveyor.com/api/projects/status/63rtamfsxpiux3v3)](https://ci.appveyor.com/project/NeverMine1732586/engineerka-game-example)
 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/078686803cbd41818a948092dafbef3e)](https://www.codacy.com/app/dannevergame/Engineerka-game_example?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ingenerkateam/Engineerka-game_example&amp;utm_campaign=badger)
+
 ### Структура проекта
 * Основной файл с игрой dino.cpp
 * Библиотека с функциями игры dinosaur.h
